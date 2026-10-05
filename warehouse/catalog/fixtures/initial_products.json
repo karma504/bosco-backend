@@ -1,0 +1,12 @@
+[
+  {"model": "catalog.product", "pk": 1, "fields": {"name": "Сир", "category": "Молочні продукти", "weight_grams": 200, "expiry_date": "2026-12-01", "price": "89.90"}},
+  {"model": "catalog.product", "pk": 2, "fields": {"name": "Молоко", "category": "Молочні продукти", "weight_grams": 1000, "expiry_date": "2026-10-20", "price": "42.50"}},
+  {"model": "catalog.product", "pk": 3, "fields": {"name": "Шоколад", "category": "Солодощі", "weight_grams": 100, "expiry_date": "2027-03-15", "price": "55.00"}},
+  {"model": "catalog.product", "pk": 4, "fields": {"name": "Йогурт", "category": "Молочні продукти", "weight_grams": 350, "expiry_date": "2026-10-25", "price": "38.00"}},
+  {"model": "catalog.product", "pk": 5, "fields": {"name": "Хліб", "category": "Випічка", "weight_grams": 500, "expiry_date": "2026-10-09", "price": "29.00"}},
+  {"model": "catalog.product", "pk": 6, "fields": {"name": "Гречка", "category": "Крупи", "weight_grams": 900, "expiry_date": "2027-08-01", "price": "64.00"}},
+  {"model": "catalog.product", "pk": 7, "fields": {"name": "Печиво", "category": "Солодощі", "weight_grams": 250, "expiry_date": "2027-01-10", "price": "47.50"}},
+  {"model": "catalog.product", "pk": 8, "fields": {"name": "Масло вершкове", "category": "Молочні продукти", "weight_grams": 180, "expiry_date": "2026-11-30", "price": "98.00"}},
+  {"model": "catalog.product", "pk": 9, "fields": {"name": "Макарони", "category": "Крупи", "weight_grams": 400, "expiry_date": "2027-06-01", "price": "36.00"}},
+  {"model": "catalog.product", "pk": 10, "fields": {"name": "Яблука", "category": "Фрукти", "weight_grams": 1000, "expiry_date": "2026-10-30", "price": "45.00"}}
+]
